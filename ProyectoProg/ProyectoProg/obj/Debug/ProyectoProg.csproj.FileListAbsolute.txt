@@ -1,0 +1,14 @@
+C:\Users\lumor\source\repos\ProyectoProg\ProyectoProg\bin\Debug\ProyectoProg.exe.config
+C:\Users\lumor\source\repos\ProyectoProg\ProyectoProg\bin\Debug\ProyectoProg.exe
+C:\Users\lumor\source\repos\ProyectoProg\ProyectoProg\bin\Debug\ProyectoProg.pdb
+C:\Users\lumor\source\repos\ProyectoProg\ProyectoProg\obj\Debug\ProyectoProg.csproj.AssemblyReference.cache
+C:\Users\lumor\source\repos\ProyectoProg\ProyectoProg\obj\Debug\ProyectoProg.Form1.resources
+C:\Users\lumor\source\repos\ProyectoProg\ProyectoProg\obj\Debug\ProyectoProg.Properties.Resources.resources
+C:\Users\lumor\source\repos\ProyectoProg\ProyectoProg\obj\Debug\ProyectoProg.csproj.GenerateResource.cache
+C:\Users\lumor\source\repos\ProyectoProg\ProyectoProg\obj\Debug\ProyectoProg.csproj.CoreCompileInputs.cache
+C:\Users\lumor\source\repos\ProyectoProg\ProyectoProg\obj\Debug\ProyectoProg.exe
+C:\Users\lumor\source\repos\ProyectoProg\ProyectoProg\obj\Debug\ProyectoProg.pdb
+C:\Users\lumor\source\repos\ProyectoProg\ProyectoProg\obj\Debug\ProyectoProg.exe.config
+C:\Users\lumor\source\repos\ProyectoProg\ProyectoProg\obj\Debug\ProyectoProg.Form2.resources
+C:\Users\lumor\source\repos\ProyectoProg\ProyectoProg\obj\Debug\ProyectoProg.Form3.resources
+C:\Users\lumor\source\repos\ProyectoProg\ProyectoProg\obj\Debug\ProyectoProg.Form4.resources
